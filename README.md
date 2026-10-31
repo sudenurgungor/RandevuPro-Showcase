@@ -2,6 +2,8 @@
 
 **Web-Based Appointment Management System**
 
+🇹🇷 [Türkçe](README_TR.md) | 🇬🇧 **English**
+
 RandevuPro is a web-based appointment management system designed for service-based businesses. It provides an intuitive booking experience for customers and dedicated management panels for business owners, employees, and system administrators.
 
 The system aims to simplify appointment scheduling, employee management, and daily business operations through a centralized platform.
